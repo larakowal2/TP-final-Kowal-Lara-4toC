@@ -51,6 +51,10 @@ header{
     background: #9f1f1f;
 }
 
+nav{
+    background: #ffffff;
+}
+
 footer{
     background: #030f08;
 }
@@ -104,13 +108,11 @@ footer {
 .logo{
     width: 150px;
     height: auto;
-    margin-left: 40%;
 }
 
 #guitarstore{
     max-height: 400px;
-    text-align: center;
-    margin: 10px;
+    margin: auto;
 }
 
 ol{
