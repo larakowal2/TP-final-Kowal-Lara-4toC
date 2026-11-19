@@ -54,7 +54,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #333;
+    color: #181818;
     font-weight: bold;
 }
 
@@ -73,7 +73,7 @@ section {
 
 
 footer {
-    text-align: center;
+    text-align: left;
     font-size: 0.9em;
     color: #555;
 }
@@ -81,4 +81,5 @@ footer {
 .logo{
     width: 150px;
     height: auto;
+    align-self: center;
 }
