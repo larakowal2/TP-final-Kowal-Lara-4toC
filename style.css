@@ -5,8 +5,9 @@ h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
     font-weight: bold;
-    color: #9f1f1f;
+    color: #ffffff;
     text-align: center;
+    font-size: large;
 }
 
 h2{
@@ -15,6 +16,11 @@ h2{
 }
 
 h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1b1f22;
+}
+
+h4{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #99bfdda3;
 }
@@ -42,6 +48,10 @@ header, nav, footer {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
 }
 
+header{
+    background-color: #9f1f1f;
+}
+
 body{
     background-color: #181818;
 }
@@ -50,6 +60,7 @@ nav ul {
     list-style: none;
     padding: 0;
     justify-content: center;
+    background-color: #a7b9c0;
 }
 
 nav ul li {
@@ -75,7 +86,7 @@ main {
 section {
     display: flex;
     flex-direction: column;
-    background-color: #eaeaeadb;
+    background-color: #abd7ffdb;
     border-radius: 10px;
 }
 
@@ -89,7 +100,7 @@ footer {
 .logo{
     width: 150px;
     height: auto;
-    text-align: center;
+    margin-left: 33%;
 }
 
 #guitarstore{
