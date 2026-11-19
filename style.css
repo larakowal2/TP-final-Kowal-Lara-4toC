@@ -16,14 +16,13 @@ h2{
 
 h3{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #93bfe1;
+    color: #99bfdda3;
 }
 
 div{
-    padding: 5px;
+    padding: 1px;
     border-radius: 15px;
-    border: #afbfc6cd;
-    background: #afbfc6;
+    background: #c6d6dd;
     width: 25%;
 }
 
@@ -69,13 +68,13 @@ main {
 section {
     display: flex;
     flex-direction: column;
-    background-color: #f3f2e1db;
+    background-color: #eaeaeadb;
     border-radius: 10px;
 }
 
 
 footer {
-    text-align: left;
+    text-align: right;
     font-size: 0.9em;
     color: #555;
 }
@@ -83,5 +82,5 @@ footer {
 .logo{
     width: 150px;
     height: auto;
-    align-self: center;
+    box-align: center;
 }
