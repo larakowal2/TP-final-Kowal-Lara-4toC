@@ -7,7 +7,7 @@ h1{
     font-weight: bold;
     color: #ffffff;
     text-align: center;
-    font-size: large;
+    font-size: 30px;
 }
 
 h2{
@@ -97,24 +97,22 @@ section {
 footer {
     text-align: right;
     font-size: 0.9em;
-    color: #555;
+    color: #ffffff;
+    background-color: #04140b;
 }
 
 .logo{
     width: 150px;
     height: auto;
-    margin-left: 33%;
+    margin-left: 40%;
 }
 
 #guitarstore{
     max-height: 400px;
     text-align: center;
+    margin: 10px;
 }
 
 ol{
-    color: #c6d6dd;
-}
-
-.copyright{
     color: #c6d6dd;
 }
