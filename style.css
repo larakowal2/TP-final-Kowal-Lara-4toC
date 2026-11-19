@@ -22,7 +22,7 @@ h3{
 div{
     padding: 1px;
     border-radius: 15px;
-    background: #c6d6dd;
+    background: #262e31;
     width: 25%;
 }
 
@@ -87,11 +87,15 @@ footer {
 .logo{
     width: 150px;
     height: auto;
-    box-align: center;
+    margin-left: 33%;
 }
 
 #guitarstore{
     width: 90%;
     height: auto;
     align-self: center;
+}
+
+ol{
+    color: #c6d6dd;
 }
