@@ -1,7 +1,22 @@
  {
     box-sizing: border-box;
 }
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #9f1f1f;
+}
 
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #286695;
+}
+
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #93bfe1;
+}
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
